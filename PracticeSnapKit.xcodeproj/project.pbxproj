@@ -11,6 +11,7 @@
 		0105CC772219018500C1D20C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0105CC762219018500C1D20C /* ViewController.swift */; };
 		0105CC7F2219018700C1D20C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0105CC7E2219018700C1D20C /* Assets.xcassets */; };
 		0105CC822219018700C1D20C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0105CC802219018700C1D20C /* LaunchScreen.storyboard */; };
+		01BBFB262219616E00F74DE2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BBFB252219616E00F74DE2 /* SecondViewController.swift */; };
 		26F9D12004D471B2FC722FE4 /* Pods_PracticeSnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BADB062BF4884E8C2D0818F4 /* Pods_PracticeSnapKit.framework */; };
 /* End PBXBuildFile section */
 
@@ -21,6 +22,7 @@
 		0105CC7E2219018700C1D20C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0105CC812219018700C1D20C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0105CC832219018700C1D20C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01BBFB252219616E00F74DE2 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		7943E54DC6840E3C2EBDA20F /* Pods-PracticeSnapKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PracticeSnapKit.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PracticeSnapKit/Pods-PracticeSnapKit.debug.xcconfig"; sourceTree = "<group>"; };
 		7A4E1C0D563EDFB69F5E9523 /* Pods-PracticeSnapKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PracticeSnapKit.release.xcconfig"; path = "Pods/Target Support Files/Pods-PracticeSnapKit/Pods-PracticeSnapKit.release.xcconfig"; sourceTree = "<group>"; };
 		BADB062BF4884E8C2D0818F4 /* Pods_PracticeSnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PracticeSnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,6 +66,7 @@
 				0105CC7E2219018700C1D20C /* Assets.xcassets */,
 				0105CC802219018700C1D20C /* LaunchScreen.storyboard */,
 				0105CC832219018700C1D20C /* Info.plist */,
+				01BBFB252219616E00F74DE2 /* SecondViewController.swift */,
 			);
 			path = PracticeSnapKit;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01BBFB262219616E00F74DE2 /* SecondViewController.swift in Sources */,
 				0105CC772219018500C1D20C /* ViewController.swift in Sources */,
 				0105CC752219018500C1D20C /* AppDelegate.swift in Sources */,
 			);
